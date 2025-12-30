@@ -1,8 +1,8 @@
-1 | async function R9X1(sock, target) {
+1 | async function R9X1(client, isTarget) {
   var R9X = {
       sendPaymentMessage: {
     }
   };
-  await sock.relayMessage(target, R9X, {
+  await client.relayMessage(target, R9X, {
   });
 }
