@@ -1,5 +1,14 @@
 {
-  "1": { "active": false, "name": "Kosong" },
-  "2": { "active": false, "name": "Kosong" },
-  "3": { "active": false, "name": "Kosong" }
+  "1": {
+    "active": true,
+    "name": "crash"
+  },
+  "2": {
+    "active": false,
+    "name": "Kosong"
+  },
+  "3": {
+    "active": false,
+    "name": "Kosong"
+  }
 }
